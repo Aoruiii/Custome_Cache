@@ -1,0 +1,14 @@
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/bin/Debug/net8.0/Custom Cache
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/bin/Debug/net8.0/Custom Cache.deps.json
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/bin/Debug/net8.0/Custom Cache.runtimeconfig.json
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/bin/Debug/net8.0/Custom Cache.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/bin/Debug/net8.0/Custom Cache.pdb
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.AssemblyInfoInputs.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.AssemblyInfo.cs
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.csproj.CoreCompileInputs.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/refint/Custom Cache.dll
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.pdb
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/Custom Cache.genruntimeconfig.cache
+/Users/aorui.tan/Desktop/Web Developer/C#/Custom Cache/Custom Cache/obj/Debug/net8.0/ref/Custom Cache.dll
